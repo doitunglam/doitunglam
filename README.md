@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **- A project for integrating AI into legal process**
 
-- 🌱 I'm currently learning **- Relearning Flask & Python
+- 🌱 I'm currently learning **- Relearning Flask & Python**
 - Advanced Typescript
 - UI/UX Design**
 
