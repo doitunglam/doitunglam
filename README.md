@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doitunglam" alt="doitunglam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doitunglam" alt="doitunglam" /></a> </p>
-
 - 🔭 I'm currently working on **- A project for integrating AI into legal process**
 
 - 🌱 I'm currently learning **- Relearning Flask & Python
